@@ -56,16 +56,3 @@ if __name__ == '__main__':
     print("Bob Triplet:", b)
 
     print(compareTriplets(a, b))
-
-
-
-
-
-
-
-
-
-
-
-
-
